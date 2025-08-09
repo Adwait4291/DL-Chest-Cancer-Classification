@@ -1,5 +1,9 @@
 from dataclasses import dataclass
 from pathlib import Path
+from typing import List
+
+params_image_size: List[int]
+
 
 
 @dataclass(frozen=True)
@@ -33,6 +37,7 @@ class TrainingConfig:
     training_data: Path
     params_epochs: int
     params_batch_size: int
+    params_learning_rate: float
     params_is_augmentation: bool
     params_image_size: list
 
