@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Adwait/DL-Chest-Cancer-Classification
+Author: Adwait
+Author-email: adwaittiwari99@gmail.com
+Project-URL: Bug Tracker, https://github.com/Adwait/DL-Chest-Cancer-Classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
