@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Chest%20Cancer%20Classification/mlruns/0/e46f3debd3874c348f35b7adbca32bce/artifacts
+end_time: 1754739796761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e46f3debd3874c348f35b7adbca32bce
+run_name: judicious-vole-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754739710404
+status: 3
+tags: []
+user_id: hp

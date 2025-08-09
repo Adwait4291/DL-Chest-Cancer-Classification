@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Chest%20Cancer%20Classification/mlruns/0/f0fcc0944c3d432a9dfef9a05e02bd5e/artifacts
+end_time: 1754743082933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0fcc0944c3d432a9dfef9a05e02bd5e
+run_name: gentle-duck-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754743079017
+status: 4
+tags: []
+user_id: hp

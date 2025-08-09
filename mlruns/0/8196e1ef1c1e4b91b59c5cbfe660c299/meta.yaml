@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Chest%20Cancer%20Classification/mlruns/0/8196e1ef1c1e4b91b59c5cbfe660c299/artifacts
+end_time: 1754744924708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8196e1ef1c1e4b91b59c5cbfe660c299
+run_name: resilient-eel-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754744474626
+status: 3
+tags: []
+user_id: hp

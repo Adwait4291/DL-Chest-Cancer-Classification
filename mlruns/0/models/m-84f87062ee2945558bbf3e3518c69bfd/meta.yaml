@@ -1,0 +1,11 @@
+artifact_location: file:///c:/Users/hp/Desktop/Chest%20Cancer%20Classification/mlruns/0/models/m-84f87062ee2945558bbf3e3518c69bfd/artifacts
+creation_timestamp: 1754743079294
+experiment_id: '0'
+last_updated_timestamp: 1754743079294
+lifecycle_stage: active
+model_id: m-84f87062ee2945558bbf3e3518c69bfd
+model_type: ''
+name: model
+source_run_id: f0fcc0944c3d432a9dfef9a05e02bd5e
+status: 1
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Chest%20Cancer%20Classification/mlruns/0/c892b57fcbb049838525bf60b327f98d/artifacts
+end_time: 1754739111413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c892b57fcbb049838525bf60b327f98d
+run_name: gifted-gull-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754739020531
+status: 3
+tags: []
+user_id: hp

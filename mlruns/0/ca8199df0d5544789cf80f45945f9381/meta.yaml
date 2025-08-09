@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hp/Desktop/Chest%20Cancer%20Classification/mlruns/0/ca8199df0d5544789cf80f45945f9381/artifacts
+end_time: 1754741752868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca8199df0d5544789cf80f45945f9381
+run_name: sassy-shoat-33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754741743646
+status: 4
+tags: []
+user_id: hp

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/hp/Desktop/Chest Cancer Classification/mlruns/644355790566785125/ae21e58981bc47a59bd889eda26b0bda/artifacts
+end_time: 1754745533558
+entry_point_name: ''
+experiment_id: '644355790566785125'
+lifecycle_stage: active
+run_id: ae21e58981bc47a59bd889eda26b0bda
+run_name: crawling-bear-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754745191381
+status: 3
+tags: []
+user_id: hp
